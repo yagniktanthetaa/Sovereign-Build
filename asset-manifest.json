@@ -1,27 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b9566cc.css",
-    "main.js": "/static/js/main.a9d860d0.js",
-    "static/js/697.f9445136.chunk.js": "/static/js/697.f9445136.chunk.js",
-    "static/js/164.594d3292.chunk.js": "/static/js/164.594d3292.chunk.js",
-    "static/js/197.392d06e3.chunk.js": "/static/js/197.392d06e3.chunk.js",
-    "static/js/787.c8c5d704.chunk.js": "/static/js/787.c8c5d704.chunk.js",
-    "static/js/413.a2a6c550.chunk.js": "/static/js/413.a2a6c550.chunk.js",
+    "main.css": "/static/css/main.3983f95b.css",
+    "main.js": "/static/js/main.7b22e3a5.js",
+    "static/js/787.2d27c25f.chunk.js": "/static/js/787.2d27c25f.chunk.js",
     "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
-    "static/media/Rectangle.png": "/static/media/Rectangle.c5a89b5f3d8088b82300.png",
     "static/media/steiner-premium-regular.ttf": "/static/media/steiner-premium-regular.8a51901f0476377668de.ttf",
-    "static/media/Frame.svg": "/static/media/Frame.d21120ac9a99da6726c05086ce0dd8d7.svg",
+    "static/media/NFTImages.png": "/static/media/NFTImages.cd0a8c5dd3abe2784bc0.png",
     "index.html": "/index.html",
-    "main.1b9566cc.css.map": "/static/css/main.1b9566cc.css.map",
-    "main.a9d860d0.js.map": "/static/js/main.a9d860d0.js.map",
-    "697.f9445136.chunk.js.map": "/static/js/697.f9445136.chunk.js.map",
-    "164.594d3292.chunk.js.map": "/static/js/164.594d3292.chunk.js.map",
-    "197.392d06e3.chunk.js.map": "/static/js/197.392d06e3.chunk.js.map",
-    "787.c8c5d704.chunk.js.map": "/static/js/787.c8c5d704.chunk.js.map",
-    "413.a2a6c550.chunk.js.map": "/static/js/413.a2a6c550.chunk.js.map"
+    "main.3983f95b.css.map": "/static/css/main.3983f95b.css.map",
+    "main.7b22e3a5.js.map": "/static/js/main.7b22e3a5.js.map",
+    "787.2d27c25f.chunk.js.map": "/static/js/787.2d27c25f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b9566cc.css",
-    "static/js/main.a9d860d0.js"
+    "static/css/main.3983f95b.css",
+    "static/js/main.7b22e3a5.js"
   ]
 }
